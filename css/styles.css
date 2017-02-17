@@ -1,0 +1,107 @@
+body {
+	width: 70%;
+	margin:0 auto;  
+}
+
+textarea{
+	height: 200px;
+	resize: none;
+}
+
+ul, li {
+	list-style: none;
+}
+
+h3 {
+	margin-top: 2%;
+}
+
+/*fonts */
+
+.opensands {
+	font-family: 'Open Sans', sans-serif;
+}
+
+.josefin {
+	font-family: 'Josefin Slab', serif;
+}
+
+.arvo {
+	font-family: 'Arvo', serif;
+}
+.lato {
+	font-family: 'Lato', sans-serif;
+}
+
+.volkhov {
+	font-family: 'Volkhov', serif;
+}
+
+.abril {
+	font-family: 'Abril Fatface', cursive;
+}
+
+.ubntu {
+	font-family: 'Ubuntu', sans-serif;
+}
+
+.ptsans {
+	font-family: 'PT Sans', sans-serif;
+}
+
+.oldStandard {
+	font-family: 'Old Standard TT', serif;
+}
+
+.droidsans {
+	font-family: 'Droid Sans', sans-serif;
+}
+
+
+
+
+
+
+.mybtn {
+	margin-top: 10%;
+}
+
+/*defult */
+.one {
+	border: thin solid #61C74E;
+}
+
+.two {
+	border: thin solid #4A58D1;
+}
+
+.three {
+	border:thin solid #D1B33A;
+}
+
+.four {
+	border:thin solid #BA322E;
+}
+
+/*rounded */
+.round {
+	border-radius: 20px;
+} 
+
+/*colour*/ 
+
+.onea {
+	background-color: #61C74E;
+}
+
+.twoa {
+	background-color: #4A58D1; 
+} 
+
+.threea {
+	background-color: #D1B33A;
+}
+
+.foura {
+	background-color: #BA322E;
+}
